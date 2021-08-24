@@ -1,0 +1,7 @@
+package mian.java.redoData;
+
+public class data {
+    public static void main(String[] args) {
+
+    }
+}

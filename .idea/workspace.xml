@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afbe5f13-5280-4a9b-bcba-1c3282cbb414" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/META-INF/redo1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/bean/student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/bean/teachar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/jdbccom/jdbcComnet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/zsgc/JUITcon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/zsgc/selectCon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/zsgc/zsgcOrconnet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/Arrylist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/redoCollections.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/set.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoData/data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/mei.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meijuTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoString/redoSttring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoString/sssString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanshe/classTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanshe/person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanxin/Older.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanxin/ex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanxin/redoFanxin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/RedoRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/callableMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/chi1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/chi2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/redoCallable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/redoChi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/redoMaip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/redothread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/rmain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/runnableMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/thmain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redozhujie/zhujie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redozhujie/zhujieTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/chouxiang/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/chouxiang/Fll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/chouxiang/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/chouxiang/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/compare/compare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/compare/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/MyInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/ProcFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/ProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/SuperMan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/daiLies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/dotaidaili.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/nikeFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/TriAngle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/TriAngleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/stdunt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Architect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Designer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Equipment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/NoteBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/PC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Programmer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/NameListService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/Status.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/TeamException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/TeamService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/test/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/view/TSUtility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/view/TeamView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/test/tel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/test/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/Stringtest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/chi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/testd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/th.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/the.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/redo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/bean/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/bean/teachar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/jdbccom/jdbcComnet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/zsgc/JUITcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/zsgc/selectCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/zsgc/zsgcOrconnet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/Arrylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/redoCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoData/data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoMeiju/mei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoMeiju/meiJu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoMeiju/meijuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoString/redoSttring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoString/sssString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanshe/classTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanshe/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanxin/Older.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanxin/ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanxin/redoFanxin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/RedoRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/redoCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/redoChi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/redoMaip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/redothread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redozhujie/zhujie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redozhujie/zhujieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/chouxiang/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/chouxiang/Fll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/chouxiang/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/chouxiang/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/compare/compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/compare/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/daili/daiLies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/daili/dotaidaili.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/TriAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/TriAngleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/stdunt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Architect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Designer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/NoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/NameListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/TeamException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/TeamService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/view/TSUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/view/TeamView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/thred/Stringtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/thred/chi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/thred/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/thred/th.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ubwWCxcwEv9hZm7zaOvEJ720k7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\untitled2\redo\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="mian.JDBC.zsgc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\untitled2\lib" />
+      <recent name="C:\Users\Administrator\IdeaProjects\untitled2\src\com\company\project3\liJava\view" />
+      <recent name="C:\Users\Administrator\IdeaProjects\untitled2\src\com\company\project3\liJava\service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.zsgcOrconnet.connet2">
+    <configuration name="selectCon.teachar4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mian.JDBC.zsgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mian.JDBC.zsgc" />
+      <option name="MAIN_CLASS_NAME" value="mian.JDBC.zsgc.selectCon" />
+      <option name="METHOD_NAME" value="teachar4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selectCon.teachar5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mian.JDBC.zsgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mian.JDBC.zsgc" />
+      <option name="MAIN_CLASS_NAME" value="mian.JDBC.zsgc.selectCon" />
+      <option name="METHOD_NAME" value="teachar5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.teachar5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.test" />
+      <option name="MAIN_CLASS_NAME" value="com.company.test.test" />
+      <option name="METHOD_NAME" value="teachar5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.testget" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.project3.liJava.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company.project3.liJava.test" />
+      <option name="MAIN_CLASS_NAME" value="com.company.project3.liJava.test.test" />
+      <option name="METHOD_NAME" value="testget" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zsgcOrconnet.connet2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mian.JDBC.zsgc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mian.JDBC.zsgc" />
+      <option name="MAIN_CLASS_NAME" value="mian.JDBC.zsgc.zsgcOrconnet" />
+      <option name="METHOD_NAME" value="connet2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.selectCon.teachar4" />
+      <item itemvalue="JUnit.selectCon.teachar5" />
+      <item itemvalue="JUnit.test.teachar5" />
+      <item itemvalue="JUnit.test.testget" />
+      <item itemvalue="JUnit.zsgcOrconnet.connet2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.zsgcOrconnet.connet2" />
+        <item itemvalue="JUnit.selectCon.teachar4" />
+        <item itemvalue="JUnit.test.teachar5" />
+        <item itemvalue="JUnit.test.testget" />
+        <item itemvalue="JUnit.selectCon.teachar5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afbe5f13-5280-4a9b-bcba-1c3282cbb414" name="Default Changelist" comment="" />
+      <created>1624947625336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624947625336</updated>
+      <workItem from="1624947628986" duration="7071000" />
+      <workItem from="1625233310664" duration="3149000" />
+      <workItem from="1625281327142" duration="7951000" />
+      <workItem from="1625381242616" duration="7371000" />
+      <workItem from="1625467633494" duration="7845000" />
+      <workItem from="1625721752785" duration="19262000" />
+      <workItem from="1625794109780" duration="15296000" />
+      <workItem from="1625834789548" duration="3425000" />
+      <workItem from="1626057449623" duration="5070000" />
+      <workItem from="1626167853914" duration="3155000" />
+      <workItem from="1626231748422" duration="3638000" />
+      <workItem from="1626352484240" duration="3599000" />
+      <workItem from="1626690610419" duration="292000" />
+      <workItem from="1626690923389" duration="625000" />
+      <workItem from="1626699925453" duration="1858000" />
+      <workItem from="1626871144552" duration="5687000" />
+      <workItem from="1626925375631" duration="1625000" />
+      <workItem from="1627015827666" duration="7301000" />
+      <workItem from="1627471239945" duration="78226000" />
+      <workItem from="1628428870566" duration="23469000" />
+      <workItem from="1628527453362" duration="1902000" />
+      <workItem from="1628572062661" duration="1788000" />
+      <workItem from="1628718432875" duration="46000" />
+      <workItem from="1629643858458" duration="6000" />
+      <workItem from="1629802953121" duration="1052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="17" key="#Project_Structure" timestamp="1628441154017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="300" y="17" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1628441154017" />
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1628527275461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1628527275461" />
+    <state x="664" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1628517253076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="664" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1628517253076" />
+    <state x="292" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1627912587450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1627912587450" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1628520640539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1628520640539" />
+    <state x="376" y="20" key="#sssString" timestamp="1627734237079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="20" key="#sssString/0.0.1366.728@0.0.1366.728" timestamp="1627734237079" />
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1629805796167">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629805796167" />
+    <state x="629" y="95" key="FileChooserDialogImpl" timestamp="1629805385043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="629" y="95" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1629805385043" />
+    <state width="1323" height="309" key="GridCell.Tab.0.bottom" timestamp="1628529928830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="309" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1628529928830" />
+    <state width="1323" height="309" key="GridCell.Tab.0.center" timestamp="1628529928830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="309" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1628529928830" />
+    <state width="1323" height="309" key="GridCell.Tab.0.left" timestamp="1628529928829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="309" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1628529928829" />
+    <state width="1323" height="309" key="GridCell.Tab.0.right" timestamp="1628529928830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="309" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1628529928830" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1628527427940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1628527427940" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1628527427940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1628527427940" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1628527427940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1628527427940" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1628527427940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1628527427940" />
+    <state x="492" y="51" key="NewModule_or_Project.wizard" timestamp="1627733825678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="51" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1627733825678" />
+    <state x="353" y="0" width="998" height="708" key="SettingsEditor" timestamp="1629805334994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="0" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1629805334994" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1626168052399">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1626168052399" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1626167859339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1626167859339" />
+    <state x="697" y="261" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1627733921931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="697" y="261" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1627733921931" />
+    <state x="342" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1627785305932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="342" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1627785305932" />
+    <state x="374" y="0" width="647" height="728" key="find.popup" timestamp="1627471624457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="374" y="0" width="647" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1627471624457" />
+    <state x="58" y="0" key="new project wizard" timestamp="1627549802993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="58" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1627549802993" />
+    <state x="262" y="194" width="672" height="677" key="run.anything.popup" timestamp="1625834957580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="194" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1625834957580" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1627540179065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1627540179065" />
+  </component>
+</project>
