@@ -2,166 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afbe5f13-5280-4a9b-bcba-1c3282cbb414" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/META-INF/redo1.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/bean/student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/bean/teachar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/jdbccom/jdbcComnet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/zsgc/JUITcon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/zsgc/selectCon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/JDBC/zsgc/zsgcOrconnet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/Arrylist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/Map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/redoCollections.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/set.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoData/data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/mei.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meiJu1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoMeiju/meijuTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoString/redoSttring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoString/sssString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanshe/classTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanshe/person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanxin/Older.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanxin/ex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redofanxin/redoFanxin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/RedoRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/callableMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/chi1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/chi2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/redoCallable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/redoChi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/redoMaip.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/redothread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/rmain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/runnableMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redoxiancheng/thmain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redozhujie/zhujie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/redozhujie/zhujieTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/chouxiang/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/chouxiang/Fll.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/chouxiang/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/chouxiang/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/compare/compare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/compare/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/Factory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/MyInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/ProcFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/ProxyFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/SuperMan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/daiLies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/dotaidaili.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/daili/nikeFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/TriAngle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/TriAngleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/jctest/stdunt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Architect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Designer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Equipment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/NoteBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/PC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/domain/Programmer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/NameListService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/Status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/TeamException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/service/TeamService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/test/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/view/TSUtility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/project3/liJava/view/TeamView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/test/tel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/test/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/Stringtest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/chi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/run.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/testd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/th.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled2/com/company/thred/the.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/redo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/bean/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/bean/teachar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/jdbccom/jdbcComnet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/zsgc/JUITcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/zsgc/selectCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/JDBC/zsgc/zsgcOrconnet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/Arrylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/redoCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoData/data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoMeiju/mei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoMeiju/meiJu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoMeiju/meijuTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoString/redoSttring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoString/sssString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanshe/classTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanshe/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanxin/Older.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanxin/ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redofanxin/redoFanxin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/RedoRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/redoCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/redoChi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/redoMaip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redoxiancheng/redothread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redozhujie/zhujie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redo/src/mian/java/redozhujie/zhujieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/chouxiang/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/chouxiang/Fll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/chouxiang/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/chouxiang/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/compare/compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/compare/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/daili/daiLies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/daili/dotaidaili.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/TriAngle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/TriAngleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/jctest/stdunt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Architect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Designer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Equipment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/NoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/domain/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/NameListService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/TeamException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/service/TeamService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/test/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/view/TSUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/project3/liJava/view/TeamView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/test/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/thred/Stringtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/thred/chi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/thred/run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/thred/th.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redo/src/mian/java/Collection/Arrylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/Arrylist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +71,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -388,12 +230,35 @@
       <workItem from="1628572062661" duration="1788000" />
       <workItem from="1628718432875" duration="46000" />
       <workItem from="1629643858458" duration="6000" />
-      <workItem from="1629802953121" duration="1052000" />
+      <workItem from="1629802953121" duration="2993000" />
     </task>
+    <task id="LOCAL-00001" summary="java test">
+      <created>1629805874369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629805874369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java test" />
+    <option name="LAST_COMMIT_MESSAGE" value="java test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="300" y="17" key="#Project_Structure" timestamp="1628441154017">
@@ -420,14 +285,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="376" y="20" key="#sssString/0.0.1366.728@0.0.1366.728" timestamp="1627734237079" />
-    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1629805796167">
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1629805872402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629805796167" />
+    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629805872402" />
     <state x="629" y="95" key="FileChooserDialogImpl" timestamp="1629805385043">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="629" y="95" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1629805385043" />
+    <state x="556" y="254" width="273" height="219" key="Github.ShareDialog" timestamp="1629807602310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="556" y="254" width="273" height="219" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1629807602310" />
     <state width="1323" height="309" key="GridCell.Tab.0.bottom" timestamp="1628529928830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -464,10 +333,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="51" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1627733825678" />
-    <state x="353" y="0" width="998" height="708" key="SettingsEditor" timestamp="1629805334994">
+    <state x="232" y="20" width="998" height="708" key="SettingsEditor" timestamp="1629807554928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="353" y="0" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1629805334994" />
+    <state x="232" y="20" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1629807554928" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1626168052399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
