@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="afbe5f13-5280-4a9b-bcba-1c3282cbb414" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/Arrylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/redo1/mian/java/Collection/Arrylist.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/redo/src/mian/java/Collection/Arrylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/redo/src/mian/java/Collection/Arrylist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +231,7 @@
       <workItem from="1628572062661" duration="1788000" />
       <workItem from="1628718432875" duration="46000" />
       <workItem from="1629643858458" duration="6000" />
-      <workItem from="1629802953121" duration="3246000" />
+      <workItem from="1629802953121" duration="4100000" />
     </task>
     <task id="LOCAL-00001" summary="java test">
       <created>1629805874369</created>
@@ -253,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629807978014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="java push test">
+      <created>1629808155176</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629808155176</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,11 +279,17 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="java test" />
     <MESSAGE value="java push test" />
     <option name="LAST_COMMIT_MESSAGE" value="java push test" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1629808875556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1629808875556" />
     <state x="300" y="17" key="#Project_Structure" timestamp="1628441154017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -300,10 +314,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="376" y="20" key="#sssString/0.0.1366.728@0.0.1366.728" timestamp="1627734237079" />
-    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1629807976697">
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1629808153876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629807976697" />
+    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1629808153876" />
     <state x="629" y="95" key="FileChooserDialogImpl" timestamp="1629805385043">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -356,6 +370,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1626168052399" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1629808888245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1629808888245" />
     <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1626167859339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
